@@ -1,0 +1,84 @@
+vehicle:
+  KJ-GM-MI:
+    benzineEnabled: true
+    owner: 768ba752-11f0-4504-8d16-45ea0e67a79d
+    brakingSpeed: 0.04
+    riders: []
+    health: 400.0
+    aftrekkenSpeed: 0.01
+    maxSpeed: 1.1
+    nbtValue: ''
+    skinItem: DIAMOND_HOE
+    kofferbak: true
+    benzine: 94.17999999999702
+    kofferbakRows: 1
+    maxSpeedBackwards: 0.0
+    isOpen: false
+    isGlow: false
+    members: []
+    name: Plane Gray
+    skinDamage: 1264
+    acceleratieSpeed: 0.01
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    rotateSpeed: 4
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    vehicleType: AIRPLANE
+  IG-XG-KS:
+    benzineEnabled: true
+    owner: 768ba752-11f0-4504-8d16-45ea0e67a79d
+    brakingSpeed: 0.03
+    riders: []
+    health: 300.0
+    aftrekkenSpeed: 0.005
+    maxSpeed: 0.6
+    nbtValue: ''
+    skinItem: DIAMOND_HOE
+    kofferbak: true
+    benzine: 100.0
+    kofferbakRows: 1
+    maxSpeedBackwards: 0.35
+    isOpen: false
+    isGlow: false
+    members: []
+    name: SUV Giraffe
+    skinDamage: 1228
+    acceleratieSpeed: 0.009
+    kofferbakData: []
+    rotateSpeed: 8
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    vehicleType: CAR
+  ZG-ZQ-GM:
+    benzineEnabled: true
+    owner: 768ba752-11f0-4504-8d16-45ea0e67a79d
+    brakingSpeed: 0.03
+    riders: []
+    health: 200.0
+    aftrekkenSpeed: 0.005
+    maxSpeed: 0.67
+    skinItem: DIAMOND_HOE
+    kofferbak: true
+    benzine: 99.30999999999965
+    kofferbakRows: 1
+    maxSpeedBackwards: 0.35
+    isOpen: true
+    isGlow: false
+    members: []
+    name: Hovercraft Purpleyellow
+    skinDamage: 1211
+    acceleratieSpeed: 0.012
+    kofferbakData: []
+    rotateSpeed: 8
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    vehicleType: HOVER
